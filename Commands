@@ -7,5 +7,16 @@ mkdir folderName
 cd folderName
 ls 
 git status
+git status --short
 git add fileName.ext
 git add --all or git add -A
+git commit -m "write your message"
+git commit -a -m "write your message"
+git log
+git status -help
+git help
+git help -all
+git branch yourBranchName
+git branch
+git checkout branchName
+git checkout master 
