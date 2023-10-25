@@ -19,4 +19,4 @@ git help -all
 git branch yourBranchName
 git branch
 git checkout branchName
-git checkout master 
+git checkout master
