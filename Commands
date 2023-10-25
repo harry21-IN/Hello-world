@@ -1,0 +1,11 @@
+Commands for git
+
+git config --global user.name "your name"
+git config --global user.mail "your mail id"
+git init 
+mkdir folderName
+cd folderName
+ls 
+git status
+git add fileName.ext
+git add --all or git add -A
