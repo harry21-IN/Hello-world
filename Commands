@@ -20,3 +20,5 @@ git branch yourBranchName
 git branch
 git checkout branchName
 git checkout master
+git remote add origin https://github.com/harry21-IN/Hello-world.git
+git push --set-upstream origin master
